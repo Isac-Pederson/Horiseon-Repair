@@ -1,1 +1,3 @@
-In this homework assignment I rename and sort code to make it easier to read and more efficient to work with
+I degbugged the website to make it more efficient and easier to read for other developers
+
+https://isac-pederson.github.io/Horiseon-Repair/
